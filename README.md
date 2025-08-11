@@ -1,4 +1,3 @@
-## Overview
 **Code repository for:**
 
 *A multivariate investigation of visual word, face, and ensemble processing: Perspectives from EEG-based decoding and feature selection*
@@ -6,6 +5,10 @@ Psychophysiology, 2020, 57:e13511
 [DOI: 10.1111/psyp.13511](https://doi.org/10.1111/psyp.13511)  
 Authors: Dan Nemrodov\*, Shouyu Ling\*, Ilya Nudnou, Tyler Roberts, Jonathan S. Cant, Andy C. H. Lee, Adrian Nestor  
 (\*Equal contribution)
+
+--
+
+## Overview
 
 This repository contains the MATLAB scripts and analysis pipeline used in the study, which applied **EEG-based decoding** and **recursive feature elimination (RFE)** to investigate spatiotemporal and frequency-domain features underlying identity-level visual processing across three categories:
 
