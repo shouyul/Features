@@ -6,7 +6,7 @@ Psychophysiology, 2020, 57:e13511
 Authors: Dan Nemrodov\*, Shouyu Ling\*, Ilya Nudnou, Tyler Roberts, Jonathan S. Cant, Andy C. H. Lee, Adrian Nestor  
 (\*Equal contribution)
 
---
+---
 
 ## Overview
 
