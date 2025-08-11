@@ -18,8 +18,6 @@ Our approach:
 - Assessed **within-** and **cross-participant** stability of features
 - Evaluated the boost in classification accuracy and dimensionality reduction achieved through feature selection
 
----
-
 ## Key Findings
 
 1. **Commonalities**  
